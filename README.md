@@ -19,4 +19,4 @@ Machine learning project to predict whether a delivery will be:
 - Hyperparameter tuning
 
 ## Tech Stack
-Python, Pandas, Scikit-learn, XGBoost, Matplotlib# Food-delivery-delay-prediction-model
+Python, Pandas, Scikit-learn, XGBoost, Matplotlib
